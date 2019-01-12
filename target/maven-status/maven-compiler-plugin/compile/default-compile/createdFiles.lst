@@ -1,0 +1,3 @@
+com\smart\dao\UserDao.class
+com\smart\domain\LoginLog.class
+com\smart\domain\User.class
